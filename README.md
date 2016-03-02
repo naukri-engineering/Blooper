@@ -1,6 +1,6 @@
 We have been using [NewMonk](https://github.com/naukri-engineering/NewMonk) for Android Crash reporting. It helps us quickly identify and pin point crashes and diagnose them by device, app version and OS. Thus it helps fix issues before they reach end users and ship higher quality apps. It also keeps us informed about crashes through alerts so that we never miss a problem. 
 
-Blooper is a library that enables an Android application to automatically post detailed crash reports to NewMonk.
+**Blooper** is a library that enables an Android application to automatically post detailed crash reports to NewMonk.
 
 **Features**
 
