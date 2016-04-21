@@ -29,7 +29,7 @@ To integrate the library in your application, follow the steps below,
     * Using Annotation.
     
     ```Java
-    @@BlooperCrashReport(
+    @BlooperCrashReport(
         uri = "http://www.example.com/newmonk/log.php",
         appId = "13",
         interval = AlarmManager.INTERVAL_HOUR,
