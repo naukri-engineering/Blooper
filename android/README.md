@@ -97,4 +97,4 @@ Get in touch with us with your suggestions, thoughts and queries at engineering@
 
 **License**
 
-Please see [LICENSE.md](../master/LICENSE.md) for details
+Please see [LICENSE.md](LICENSE.md) for details
