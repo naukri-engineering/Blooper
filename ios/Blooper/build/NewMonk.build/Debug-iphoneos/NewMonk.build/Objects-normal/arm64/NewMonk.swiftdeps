@@ -1,0 +1,150 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "NewMonk"
+provides-nominal:
+- "C7NewMonk7NewMonk"
+provides-member:
+- ["C7NewMonk7NewMonk", ""]
+provides-dynamic-lookup:
+- "sharedManager"
+- "setUserId"
+- "debug"
+- "initCrash"
+depends-top-level:
+- "NSObject"
+- !private "WebServiceManager"
+- "Bool"
+- "BooleanLiteralType"
+- !private "Crash"
+- "NewMonk"
+- "String"
+depends-member:
+- !private ["PSs9AnyObject", "Crash"]
+- ["PSs9AnyObject", "NewMonk"]
+- !private ["PSs9AnyObject", "WebServiceManager"]
+- !private ["PSs9AnyObject", "apiURL"]
+- !private ["PSs9AnyObject", "appId"]
+- ["PSs9AnyObject", "debug"]
+- ["PSs9AnyObject", "init"]
+- ["PSs9AnyObject", "initCrash"]
+- !private ["PSs9AnyObject", "loggedInID"]
+- ["PSs9AnyObject", "setUserId"]
+- ["PSs9AnyObject", "sharedManager"]
+- ["PSs9AnyObject", ""]
+- !private ["PSs11CVarArgType", "Crash"]
+- ["PSs11CVarArgType", "NewMonk"]
+- !private ["PSs11CVarArgType", "WebServiceManager"]
+- !private ["PSs11CVarArgType", "apiURL"]
+- !private ["PSs11CVarArgType", "appId"]
+- ["PSs11CVarArgType", "debug"]
+- ["PSs11CVarArgType", "init"]
+- ["PSs11CVarArgType", "initCrash"]
+- !private ["PSs11CVarArgType", "loggedInID"]
+- ["PSs11CVarArgType", "setUserId"]
+- ["PSs11CVarArgType", "sharedManager"]
+- ["PSs11CVarArgType", ""]
+- !private ["C7NewMonk5Crash", "initCrash"]
+- !private ["PSs23CustomStringConvertible", "Crash"]
+- ["PSs23CustomStringConvertible", "NewMonk"]
+- !private ["PSs23CustomStringConvertible", "WebServiceManager"]
+- !private ["PSs23CustomStringConvertible", "apiURL"]
+- !private ["PSs23CustomStringConvertible", "appId"]
+- ["PSs23CustomStringConvertible", "debug"]
+- ["PSs23CustomStringConvertible", "init"]
+- ["PSs23CustomStringConvertible", "initCrash"]
+- !private ["PSs23CustomStringConvertible", "loggedInID"]
+- ["PSs23CustomStringConvertible", "setUserId"]
+- ["PSs23CustomStringConvertible", "sharedManager"]
+- ["PSs23CustomStringConvertible", ""]
+- !private ["PSs9Equatable", "Crash"]
+- ["PSs9Equatable", "NewMonk"]
+- !private ["PSs9Equatable", "WebServiceManager"]
+- !private ["PSs9Equatable", "apiURL"]
+- !private ["PSs9Equatable", "appId"]
+- ["PSs9Equatable", "debug"]
+- ["PSs9Equatable", "init"]
+- ["PSs9Equatable", "initCrash"]
+- !private ["PSs9Equatable", "loggedInID"]
+- ["PSs9Equatable", "setUserId"]
+- ["PSs9Equatable", "sharedManager"]
+- ["PSs9Equatable", ""]
+- !private ["PSs8Hashable", "Crash"]
+- ["PSs8Hashable", "NewMonk"]
+- !private ["PSs8Hashable", "WebServiceManager"]
+- !private ["PSs8Hashable", "apiURL"]
+- !private ["PSs8Hashable", "appId"]
+- ["PSs8Hashable", "debug"]
+- ["PSs8Hashable", "init"]
+- ["PSs8Hashable", "initCrash"]
+- !private ["PSs8Hashable", "loggedInID"]
+- ["PSs8Hashable", "setUserId"]
+- ["PSs8Hashable", "sharedManager"]
+- ["PSs8Hashable", ""]
+- !private ["CSo15NSManagedObject", "initCrash"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "Crash"]
+- ["CSo8NSObject", "NewMonk"]
+- ["CSo8NSObject", "String"]
+- !private ["CSo8NSObject", "WebServiceManager"]
+- !private ["CSo8NSObject", "apiURL"]
+- !private ["CSo8NSObject", "appId"]
+- ["CSo8NSObject", "debug"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "initCrash"]
+- !private ["CSo8NSObject", "loggedInID"]
+- ["CSo8NSObject", "setUserId"]
+- ["CSo8NSObject", "sharedManager"]
+- ["CSo8NSObject", ""]
+- !private ["PSo16NSObjectProtocol", "Crash"]
+- ["PSo16NSObjectProtocol", "NewMonk"]
+- !private ["PSo16NSObjectProtocol", "WebServiceManager"]
+- !private ["PSo16NSObjectProtocol", "apiURL"]
+- !private ["PSo16NSObjectProtocol", "appId"]
+- ["PSo16NSObjectProtocol", "debug"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "initCrash"]
+- !private ["PSo16NSObjectProtocol", "loggedInID"]
+- ["PSo16NSObjectProtocol", "setUserId"]
+- ["PSo16NSObjectProtocol", "sharedManager"]
+- ["PSo16NSObjectProtocol", ""]
+- ["C7NewMonk7NewMonk", "Bool"]
+- !private ["C7NewMonk7NewMonk", "Crash"]
+- ["C7NewMonk7NewMonk", "NewMonk"]
+- ["C7NewMonk7NewMonk", "String"]
+- !private ["C7NewMonk7NewMonk", "WebServiceManager"]
+- ["C7NewMonk7NewMonk", "debug"]
+- ["C7NewMonk7NewMonk", "deinit"]
+- ["C7NewMonk7NewMonk", "init"]
+- ["C7NewMonk7NewMonk", "initCrash"]
+- ["C7NewMonk7NewMonk", "setUserId"]
+- ["C7NewMonk7NewMonk", "sharedManager"]
+- !private ["C7NewMonk17WebServiceManager", "apiURL"]
+- !private ["C7NewMonk17WebServiceManager", "appId"]
+- !private ["C7NewMonk17WebServiceManager", "loggedInID"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- !private "C7NewMonk5Crash"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- !private "CSo15NSManagedObject"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "C7NewMonk7NewMonk"
+- !private "C7NewMonk17WebServiceManager"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/NewMonk/CoreData/CoreDataHelper.h"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/NewMonk/NewMonk.h"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/build/NewMonk.build/Debug-iphoneos/NewMonk.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreData.swiftmodule"
+interface-hash: "349a66bcf304d31eaabc13f24661a483"

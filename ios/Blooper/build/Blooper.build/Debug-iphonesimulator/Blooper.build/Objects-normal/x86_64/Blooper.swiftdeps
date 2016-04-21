@@ -1,0 +1,171 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Blooper"
+provides-nominal:
+- "C7Blooper7Blooper"
+provides-member:
+- ["C7Blooper7Blooper", ""]
+provides-dynamic-lookup:
+- "setUserId"
+- "addCrash"
+- "sharedManager"
+- "debug"
+depends-top-level:
+- "Blooper"
+- !private "Crash"
+- "BooleanLiteralType"
+- !private "WebServiceManager"
+- "Bool"
+- "String"
+- "NSObject"
+depends-member:
+- ["Ps9AnyObject", "Blooper"]
+- !private ["Ps9AnyObject", "Crash"]
+- !private ["Ps9AnyObject", "WebServiceManager"]
+- ["Ps9AnyObject", "addCrash"]
+- !private ["Ps9AnyObject", "apiURL"]
+- !private ["Ps9AnyObject", "appId"]
+- ["Ps9AnyObject", "debug"]
+- ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "initCrash"]
+- !private ["Ps9AnyObject", "loggedInID"]
+- ["Ps9AnyObject", "setUserId"]
+- ["Ps9AnyObject", "sharedManager"]
+- ["Ps9AnyObject", ""]
+- ["C7Blooper7Blooper", "Blooper"]
+- ["C7Blooper7Blooper", "Bool"]
+- !private ["C7Blooper7Blooper", "Crash"]
+- ["C7Blooper7Blooper", "String"]
+- !private ["C7Blooper7Blooper", "WebServiceManager"]
+- ["C7Blooper7Blooper", "addCrash"]
+- ["C7Blooper7Blooper", "debug"]
+- ["C7Blooper7Blooper", "deinit"]
+- ["C7Blooper7Blooper", "init"]
+- ["C7Blooper7Blooper", "setUserId"]
+- ["C7Blooper7Blooper", "sharedManager"]
+- ["Ps11CVarArgType", "Blooper"]
+- !private ["Ps11CVarArgType", "Crash"]
+- !private ["Ps11CVarArgType", "WebServiceManager"]
+- ["Ps11CVarArgType", "addCrash"]
+- !private ["Ps11CVarArgType", "apiURL"]
+- !private ["Ps11CVarArgType", "appId"]
+- ["Ps11CVarArgType", "debug"]
+- ["Ps11CVarArgType", "init"]
+- !private ["Ps11CVarArgType", "initCrash"]
+- !private ["Ps11CVarArgType", "loggedInID"]
+- ["Ps11CVarArgType", "setUserId"]
+- ["Ps11CVarArgType", "sharedManager"]
+- ["Ps11CVarArgType", ""]
+- !private ["C7Blooper5Crash", "initCrash"]
+- ["Ps28CustomDebugStringConvertible", "Blooper"]
+- !private ["Ps28CustomDebugStringConvertible", "Crash"]
+- !private ["Ps28CustomDebugStringConvertible", "WebServiceManager"]
+- ["Ps28CustomDebugStringConvertible", "addCrash"]
+- !private ["Ps28CustomDebugStringConvertible", "apiURL"]
+- !private ["Ps28CustomDebugStringConvertible", "appId"]
+- ["Ps28CustomDebugStringConvertible", "debug"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "initCrash"]
+- !private ["Ps28CustomDebugStringConvertible", "loggedInID"]
+- ["Ps28CustomDebugStringConvertible", "setUserId"]
+- ["Ps28CustomDebugStringConvertible", "sharedManager"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- ["Ps23CustomStringConvertible", "Blooper"]
+- !private ["Ps23CustomStringConvertible", "Crash"]
+- !private ["Ps23CustomStringConvertible", "WebServiceManager"]
+- ["Ps23CustomStringConvertible", "addCrash"]
+- !private ["Ps23CustomStringConvertible", "apiURL"]
+- !private ["Ps23CustomStringConvertible", "appId"]
+- ["Ps23CustomStringConvertible", "debug"]
+- ["Ps23CustomStringConvertible", "init"]
+- !private ["Ps23CustomStringConvertible", "initCrash"]
+- !private ["Ps23CustomStringConvertible", "loggedInID"]
+- ["Ps23CustomStringConvertible", "setUserId"]
+- ["Ps23CustomStringConvertible", "sharedManager"]
+- ["Ps23CustomStringConvertible", ""]
+- ["Ps9Equatable", "Blooper"]
+- !private ["Ps9Equatable", "Crash"]
+- !private ["Ps9Equatable", "WebServiceManager"]
+- ["Ps9Equatable", "addCrash"]
+- !private ["Ps9Equatable", "apiURL"]
+- !private ["Ps9Equatable", "appId"]
+- ["Ps9Equatable", "debug"]
+- ["Ps9Equatable", "init"]
+- !private ["Ps9Equatable", "initCrash"]
+- !private ["Ps9Equatable", "loggedInID"]
+- ["Ps9Equatable", "setUserId"]
+- ["Ps9Equatable", "sharedManager"]
+- ["Ps9Equatable", ""]
+- ["Ps8Hashable", "Blooper"]
+- !private ["Ps8Hashable", "Crash"]
+- !private ["Ps8Hashable", "WebServiceManager"]
+- ["Ps8Hashable", "addCrash"]
+- !private ["Ps8Hashable", "apiURL"]
+- !private ["Ps8Hashable", "appId"]
+- ["Ps8Hashable", "debug"]
+- ["Ps8Hashable", "init"]
+- !private ["Ps8Hashable", "initCrash"]
+- !private ["Ps8Hashable", "loggedInID"]
+- ["Ps8Hashable", "setUserId"]
+- ["Ps8Hashable", "sharedManager"]
+- ["Ps8Hashable", ""]
+- !private ["CSo15NSManagedObject", "initCrash"]
+- ["CSo8NSObject", "Blooper"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "Crash"]
+- ["CSo8NSObject", "String"]
+- !private ["CSo8NSObject", "WebServiceManager"]
+- ["CSo8NSObject", "addCrash"]
+- !private ["CSo8NSObject", "apiURL"]
+- !private ["CSo8NSObject", "appId"]
+- ["CSo8NSObject", "debug"]
+- ["CSo8NSObject", "init"]
+- !private ["CSo8NSObject", "initCrash"]
+- !private ["CSo8NSObject", "loggedInID"]
+- ["CSo8NSObject", "setUserId"]
+- ["CSo8NSObject", "sharedManager"]
+- ["CSo8NSObject", ""]
+- ["PSo16NSObjectProtocol", "Blooper"]
+- !private ["PSo16NSObjectProtocol", "Crash"]
+- !private ["PSo16NSObjectProtocol", "WebServiceManager"]
+- ["PSo16NSObjectProtocol", "addCrash"]
+- !private ["PSo16NSObjectProtocol", "apiURL"]
+- !private ["PSo16NSObjectProtocol", "appId"]
+- ["PSo16NSObjectProtocol", "debug"]
+- ["PSo16NSObjectProtocol", "init"]
+- !private ["PSo16NSObjectProtocol", "initCrash"]
+- !private ["PSo16NSObjectProtocol", "loggedInID"]
+- ["PSo16NSObjectProtocol", "setUserId"]
+- ["PSo16NSObjectProtocol", "sharedManager"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["C7Blooper17WebServiceManager", "apiURL"]
+- !private ["C7Blooper17WebServiceManager", "appId"]
+- !private ["C7Blooper17WebServiceManager", "loggedInID"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C7Blooper7Blooper"
+- "Ps11CVarArgType"
+- !private "C7Blooper5Crash"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- !private "CSo15NSManagedObject"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "C7Blooper17WebServiceManager"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/Blooper/CoreData/CoreDataHelper.h"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/Blooper/Blooper.h"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/build/Blooper.build/Debug-iphonesimulator/Blooper.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+interface-hash: "02b57d6d2eece33d963e7fb6539f4ae5"

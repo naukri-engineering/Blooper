@@ -1,0 +1,10 @@
+framework module NewMonk {
+  umbrella header "NewMonk.h"
+
+  export *
+  module * { export * }
+}
+
+module NewMonk.Swift {
+    header "NewMonk-Swift.h"
+}

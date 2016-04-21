@@ -1,0 +1,687 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "Crash"
+provides-nominal:
+- "C7Blooper5Crash"
+provides-member:
+- ["C7Blooper5Crash", ""]
+provides-dynamic-lookup:
+- "deleteCrash"
+- "initCrash"
+- "getCrash"
+depends-top-level:
+- "NSFetchRequest"
+- "NSManagedObjectContext"
+- !private "print"
+- "Crash"
+- !private "Void"
+- !private "BooleanLiteralType"
+- "NSError"
+- !private "CRASH_ENTITY_NAME"
+- "NSEntityDescription"
+- !private "=="
+- !private "WebServiceManager"
+- !private "CoreDataHelper"
+- !private "NSSetUncaughtExceptionHandler"
+- "Bool"
+- !private "NSException"
+- !private "String"
+- "NSArray"
+- "NSManagedObject"
+- !private "StringLiteralType"
+depends-member:
+- !private ["Ps9AnyObject", "CRASH_ENTITY_NAME"]
+- !private ["Ps9AnyObject", "CoreDataHelper"]
+- !private ["Ps9AnyObject", "Crash"]
+- !private ["Ps9AnyObject", "Element"]
+- !private ["Ps9AnyObject", "Generator"]
+- !private ["Ps9AnyObject", "NSArray"]
+- !private ["Ps9AnyObject", "NSEntityDescription"]
+- !private ["Ps9AnyObject", "NSFetchRequest"]
+- !private ["Ps9AnyObject", "NSSetUncaughtExceptionHandler"]
+- !private ["Ps9AnyObject", "WebServiceManager"]
+- ["Ps9AnyObject", "context"]
+- !private ["Ps9AnyObject", "crashDescription"]
+- ["Ps9AnyObject", "debuggingEnabled"]
+- ["Ps9AnyObject", "deleteCrash"]
+- !private ["Ps9AnyObject", "deleteObject"]
+- !private ["Ps9AnyObject", "description"]
+- !private ["Ps9AnyObject", "entity"]
+- ["Ps9AnyObject", "entity1"]
+- !private ["Ps9AnyObject", "entityForName"]
+- ["Ps9AnyObject", "error"]
+- !private ["Ps9AnyObject", "executeFetchRequest"]
+- ["Ps9AnyObject", "fetchRequest"]
+- ["Ps9AnyObject", "getCrash"]
+- ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "initCrash"]
+- !private ["Ps9AnyObject", "insertNewObjectForEntityForName"]
+- !private ["Ps9AnyObject", "mainMOC"]
+- !private ["Ps9AnyObject", "managedObjectContext"]
+- !private ["Ps9AnyObject", "print"]
+- !private ["Ps9AnyObject", "save"]
+- ["Ps9AnyObject", "saveCrash"]
+- !private ["Ps9AnyObject", "saveDataContext"]
+- !private ["Ps9AnyObject", "sharedInstance"]
+- !private ["Ps9AnyObject", "uploadCrashToServer"]
+- !private ["Ps9AnyObject", "writerMOC"]
+- ["Ps9AnyObject", ""]
+- !private ["Sa", "Generator"]
+- !private ["Sa", "Index"]
+- !private ["Sa", "SubSequence"]
+- !private ["Sa", "count"]
+- !private ["Sa", "deinit"]
+- !private ["Ps23ArrayLiteralConvertible", "Generator"]
+- !private ["Ps23ArrayLiteralConvertible", "Index"]
+- !private ["Ps23ArrayLiteralConvertible", "SubSequence"]
+- !private ["Ps23ArrayLiteralConvertible", "count"]
+- !private ["Ps23ArrayLiteralConvertible", "init"]
+- !private ["Vs10ArraySlice", "Generator"]
+- !private ["Vs10ArraySlice", "Index"]
+- !private ["Ps22BidirectionalIndexType", "Distance"]
+- !private ["Ps22BidirectionalIndexType", "IntegerLiteralType"]
+- !private ["Ps21BitwiseOperationsType", "Distance"]
+- !private ["Ps21BitwiseOperationsType", "IntegerLiteralType"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- !private ["Sb", "deinit"]
+- !private ["Ps25BooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps11BooleanType", "_getBuiltinLogicValue"]
+- !private ["Ps11CVarArgType", "CRASH_ENTITY_NAME"]
+- !private ["Ps11CVarArgType", "CoreDataHelper"]
+- !private ["Ps11CVarArgType", "Crash"]
+- !private ["Ps11CVarArgType", "Distance"]
+- !private ["Ps11CVarArgType", "Generator"]
+- !private ["Ps11CVarArgType", "IntegerLiteralType"]
+- !private ["Ps11CVarArgType", "NSArray"]
+- !private ["Ps11CVarArgType", "NSEntityDescription"]
+- !private ["Ps11CVarArgType", "NSFetchRequest"]
+- !private ["Ps11CVarArgType", "NSSetUncaughtExceptionHandler"]
+- !private ["Ps11CVarArgType", "WebServiceManager"]
+- ["Ps11CVarArgType", "context"]
+- !private ["Ps11CVarArgType", "crashDescription"]
+- ["Ps11CVarArgType", "debuggingEnabled"]
+- ["Ps11CVarArgType", "deleteCrash"]
+- !private ["Ps11CVarArgType", "deleteObject"]
+- !private ["Ps11CVarArgType", "description"]
+- !private ["Ps11CVarArgType", "entity"]
+- ["Ps11CVarArgType", "entity1"]
+- !private ["Ps11CVarArgType", "entityForName"]
+- ["Ps11CVarArgType", "error"]
+- !private ["Ps11CVarArgType", "executeFetchRequest"]
+- ["Ps11CVarArgType", "fetchRequest"]
+- ["Ps11CVarArgType", "getCrash"]
+- ["Ps11CVarArgType", "init"]
+- ["Ps11CVarArgType", "initCrash"]
+- !private ["Ps11CVarArgType", "insertNewObjectForEntityForName"]
+- !private ["Ps11CVarArgType", "mainMOC"]
+- !private ["Ps11CVarArgType", "managedObjectContext"]
+- !private ["Ps11CVarArgType", "print"]
+- !private ["Ps11CVarArgType", "save"]
+- ["Ps11CVarArgType", "saveCrash"]
+- !private ["Ps11CVarArgType", "saveDataContext"]
+- !private ["Ps11CVarArgType", "sharedInstance"]
+- !private ["Ps11CVarArgType", "uploadCrashToServer"]
+- !private ["Ps11CVarArgType", "writerMOC"]
+- ["Ps11CVarArgType", ""]
+- !private ["Vs9Character", "deinit"]
+- !private ["Ps14CollectionType", "Generator"]
+- !private ["Ps14CollectionType", "Index"]
+- !private ["Ps14CollectionType", "SubSequence"]
+- !private ["Ps14CollectionType", "count"]
+- !private ["Ps10Comparable", "Distance"]
+- !private ["Ps10Comparable", "IntegerLiteralType"]
+- !private ["Ps10Comparable", "init"]
+- !private ["CSo14CoreDataHelper", "mainMOC"]
+- !private ["CSo14CoreDataHelper", "managedObjectContext"]
+- !private ["CSo14CoreDataHelper", "saveDataContext"]
+- !private ["CSo14CoreDataHelper", "sharedInstance"]
+- !private ["CSo14CoreDataHelper", "writerMOC"]
+- ["C7Blooper5Crash", "Bool"]
+- !private ["C7Blooper5Crash", "CRASH_ENTITY_NAME"]
+- !private ["C7Blooper5Crash", "CoreDataHelper"]
+- !private ["C7Blooper5Crash", "Crash"]
+- ["C7Blooper5Crash", "NSArray"]
+- ["C7Blooper5Crash", "NSEntityDescription"]
+- ["C7Blooper5Crash", "NSError"]
+- !private ["C7Blooper5Crash", "NSException"]
+- ["C7Blooper5Crash", "NSFetchRequest"]
+- !private ["C7Blooper5Crash", "NSManagedObject"]
+- ["C7Blooper5Crash", "NSManagedObjectContext"]
+- !private ["C7Blooper5Crash", "NSSetUncaughtExceptionHandler"]
+- !private ["C7Blooper5Crash", "String"]
+- !private ["C7Blooper5Crash", "Void"]
+- !private ["C7Blooper5Crash", "WebServiceManager"]
+- !private ["C7Blooper5Crash", "context"]
+- !private ["C7Blooper5Crash", "crashDescription"]
+- !private ["C7Blooper5Crash", "debuggingEnabled"]
+- ["C7Blooper5Crash", "deinit"]
+- ["C7Blooper5Crash", "deleteCrash"]
+- !private ["C7Blooper5Crash", "entity1"]
+- !private ["C7Blooper5Crash", "error"]
+- !private ["C7Blooper5Crash", "fetchRequest"]
+- ["C7Blooper5Crash", "getCrash"]
+- ["C7Blooper5Crash", "init"]
+- ["C7Blooper5Crash", "initCrash"]
+- !private ["C7Blooper5Crash", "print"]
+- !private ["C7Blooper5Crash", "saveCrash"]
+- !private ["Ps28CustomDebugStringConvertible", "CRASH_ENTITY_NAME"]
+- !private ["Ps28CustomDebugStringConvertible", "CoreDataHelper"]
+- !private ["Ps28CustomDebugStringConvertible", "Crash"]
+- !private ["Ps28CustomDebugStringConvertible", "Generator"]
+- !private ["Ps28CustomDebugStringConvertible", "Index"]
+- !private ["Ps28CustomDebugStringConvertible", "NSArray"]
+- !private ["Ps28CustomDebugStringConvertible", "NSEntityDescription"]
+- !private ["Ps28CustomDebugStringConvertible", "NSFetchRequest"]
+- !private ["Ps28CustomDebugStringConvertible", "NSSetUncaughtExceptionHandler"]
+- !private ["Ps28CustomDebugStringConvertible", "SubSequence"]
+- !private ["Ps28CustomDebugStringConvertible", "WebServiceManager"]
+- ["Ps28CustomDebugStringConvertible", "context"]
+- !private ["Ps28CustomDebugStringConvertible", "count"]
+- !private ["Ps28CustomDebugStringConvertible", "crashDescription"]
+- ["Ps28CustomDebugStringConvertible", "debuggingEnabled"]
+- ["Ps28CustomDebugStringConvertible", "deleteCrash"]
+- !private ["Ps28CustomDebugStringConvertible", "deleteObject"]
+- !private ["Ps28CustomDebugStringConvertible", "description"]
+- !private ["Ps28CustomDebugStringConvertible", "entity"]
+- ["Ps28CustomDebugStringConvertible", "entity1"]
+- !private ["Ps28CustomDebugStringConvertible", "entityForName"]
+- ["Ps28CustomDebugStringConvertible", "error"]
+- !private ["Ps28CustomDebugStringConvertible", "executeFetchRequest"]
+- ["Ps28CustomDebugStringConvertible", "fetchRequest"]
+- ["Ps28CustomDebugStringConvertible", "getCrash"]
+- ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "initCrash"]
+- !private ["Ps28CustomDebugStringConvertible", "insertNewObjectForEntityForName"]
+- !private ["Ps28CustomDebugStringConvertible", "mainMOC"]
+- !private ["Ps28CustomDebugStringConvertible", "managedObjectContext"]
+- !private ["Ps28CustomDebugStringConvertible", "print"]
+- !private ["Ps28CustomDebugStringConvertible", "save"]
+- ["Ps28CustomDebugStringConvertible", "saveCrash"]
+- !private ["Ps28CustomDebugStringConvertible", "saveDataContext"]
+- !private ["Ps28CustomDebugStringConvertible", "sharedInstance"]
+- !private ["Ps28CustomDebugStringConvertible", "uploadCrashToServer"]
+- !private ["Ps28CustomDebugStringConvertible", "writerMOC"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps23CustomStringConvertible", "CRASH_ENTITY_NAME"]
+- !private ["Ps23CustomStringConvertible", "CoreDataHelper"]
+- !private ["Ps23CustomStringConvertible", "Crash"]
+- !private ["Ps23CustomStringConvertible", "Distance"]
+- !private ["Ps23CustomStringConvertible", "Generator"]
+- !private ["Ps23CustomStringConvertible", "Index"]
+- !private ["Ps23CustomStringConvertible", "IntegerLiteralType"]
+- !private ["Ps23CustomStringConvertible", "NSArray"]
+- !private ["Ps23CustomStringConvertible", "NSEntityDescription"]
+- !private ["Ps23CustomStringConvertible", "NSFetchRequest"]
+- !private ["Ps23CustomStringConvertible", "NSSetUncaughtExceptionHandler"]
+- !private ["Ps23CustomStringConvertible", "SubSequence"]
+- !private ["Ps23CustomStringConvertible", "WebServiceManager"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "context"]
+- !private ["Ps23CustomStringConvertible", "count"]
+- !private ["Ps23CustomStringConvertible", "crashDescription"]
+- ["Ps23CustomStringConvertible", "debuggingEnabled"]
+- ["Ps23CustomStringConvertible", "deleteCrash"]
+- !private ["Ps23CustomStringConvertible", "deleteObject"]
+- !private ["Ps23CustomStringConvertible", "description"]
+- !private ["Ps23CustomStringConvertible", "entity"]
+- ["Ps23CustomStringConvertible", "entity1"]
+- !private ["Ps23CustomStringConvertible", "entityForName"]
+- ["Ps23CustomStringConvertible", "error"]
+- !private ["Ps23CustomStringConvertible", "executeFetchRequest"]
+- ["Ps23CustomStringConvertible", "fetchRequest"]
+- ["Ps23CustomStringConvertible", "getCrash"]
+- ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "initCrash"]
+- !private ["Ps23CustomStringConvertible", "insertNewObjectForEntityForName"]
+- !private ["Ps23CustomStringConvertible", "mainMOC"]
+- !private ["Ps23CustomStringConvertible", "managedObjectContext"]
+- !private ["Ps23CustomStringConvertible", "print"]
+- !private ["Ps23CustomStringConvertible", "save"]
+- ["Ps23CustomStringConvertible", "saveCrash"]
+- !private ["Ps23CustomStringConvertible", "saveDataContext"]
+- !private ["Ps23CustomStringConvertible", "sharedInstance"]
+- !private ["Ps23CustomStringConvertible", "uploadCrashToServer"]
+- !private ["Ps23CustomStringConvertible", "writerMOC"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Sd", "deinit"]
+- !private ["Ps9Equatable", "CRASH_ENTITY_NAME"]
+- !private ["Ps9Equatable", "CoreDataHelper"]
+- !private ["Ps9Equatable", "Crash"]
+- !private ["Ps9Equatable", "Distance"]
+- !private ["Ps9Equatable", "Generator"]
+- !private ["Ps9Equatable", "IntegerLiteralType"]
+- !private ["Ps9Equatable", "NSArray"]
+- !private ["Ps9Equatable", "NSEntityDescription"]
+- !private ["Ps9Equatable", "NSFetchRequest"]
+- !private ["Ps9Equatable", "NSSetUncaughtExceptionHandler"]
+- !private ["Ps9Equatable", "WebServiceManager"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "context"]
+- !private ["Ps9Equatable", "crashDescription"]
+- ["Ps9Equatable", "debuggingEnabled"]
+- ["Ps9Equatable", "deleteCrash"]
+- !private ["Ps9Equatable", "deleteObject"]
+- !private ["Ps9Equatable", "description"]
+- !private ["Ps9Equatable", "entity"]
+- ["Ps9Equatable", "entity1"]
+- !private ["Ps9Equatable", "entityForName"]
+- ["Ps9Equatable", "error"]
+- !private ["Ps9Equatable", "executeFetchRequest"]
+- ["Ps9Equatable", "fetchRequest"]
+- ["Ps9Equatable", "getCrash"]
+- ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "initCrash"]
+- !private ["Ps9Equatable", "insertNewObjectForEntityForName"]
+- !private ["Ps9Equatable", "mainMOC"]
+- !private ["Ps9Equatable", "managedObjectContext"]
+- !private ["Ps9Equatable", "print"]
+- !private ["Ps9Equatable", "save"]
+- ["Ps9Equatable", "saveCrash"]
+- !private ["Ps9Equatable", "saveDataContext"]
+- !private ["Ps9Equatable", "sharedInstance"]
+- !private ["Ps9Equatable", "uploadCrashToServer"]
+- !private ["Ps9Equatable", "writerMOC"]
+- ["Ps9Equatable", ""]
+- !private ["Ps41ExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Sf", "deinit"]
+- !private ["Ps16ForwardIndexType", "Distance"]
+- !private ["Ps16ForwardIndexType", "IntegerLiteralType"]
+- !private ["Ps13GeneratorType", "Element"]
+- !private ["Ps8Hashable", "CRASH_ENTITY_NAME"]
+- !private ["Ps8Hashable", "CoreDataHelper"]
+- !private ["Ps8Hashable", "Crash"]
+- !private ["Ps8Hashable", "Distance"]
+- !private ["Ps8Hashable", "Generator"]
+- !private ["Ps8Hashable", "IntegerLiteralType"]
+- !private ["Ps8Hashable", "NSArray"]
+- !private ["Ps8Hashable", "NSEntityDescription"]
+- !private ["Ps8Hashable", "NSFetchRequest"]
+- !private ["Ps8Hashable", "NSSetUncaughtExceptionHandler"]
+- !private ["Ps8Hashable", "WebServiceManager"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "context"]
+- !private ["Ps8Hashable", "crashDescription"]
+- ["Ps8Hashable", "debuggingEnabled"]
+- ["Ps8Hashable", "deleteCrash"]
+- !private ["Ps8Hashable", "deleteObject"]
+- !private ["Ps8Hashable", "description"]
+- !private ["Ps8Hashable", "entity"]
+- ["Ps8Hashable", "entity1"]
+- !private ["Ps8Hashable", "entityForName"]
+- ["Ps8Hashable", "error"]
+- !private ["Ps8Hashable", "executeFetchRequest"]
+- ["Ps8Hashable", "fetchRequest"]
+- ["Ps8Hashable", "getCrash"]
+- ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "initCrash"]
+- !private ["Ps8Hashable", "insertNewObjectForEntityForName"]
+- !private ["Ps8Hashable", "mainMOC"]
+- !private ["Ps8Hashable", "managedObjectContext"]
+- !private ["Ps8Hashable", "print"]
+- !private ["Ps8Hashable", "save"]
+- ["Ps8Hashable", "saveCrash"]
+- !private ["Ps8Hashable", "saveDataContext"]
+- !private ["Ps8Hashable", "sharedInstance"]
+- !private ["Ps8Hashable", "uploadCrashToServer"]
+- !private ["Ps8Hashable", "writerMOC"]
+- ["Ps8Hashable", ""]
+- !private ["SQ", "Generator"]
+- !private ["SQ", "deinit"]
+- !private ["Ps9Indexable", "Generator"]
+- !private ["Ps9Indexable", "Index"]
+- !private ["Ps9Indexable", "SubSequence"]
+- !private ["Ps9Indexable", "count"]
+- !private ["Si", "Distance"]
+- !private ["Si", "IntegerLiteralType"]
+- !private ["Si", "deinit"]
+- !private ["Vs5Int16", "deinit"]
+- !private ["Vs5Int32", "deinit"]
+- !private ["Vs5Int64", "deinit"]
+- !private ["Vs4Int8", "deinit"]
+- !private ["Ps21IntegerArithmeticType", "Distance"]
+- !private ["Ps21IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["Ps25IntegerLiteralConvertible", "Distance"]
+- !private ["Ps25IntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["Ps11IntegerType", "Distance"]
+- !private ["Ps11IntegerType", "IntegerLiteralType"]
+- !private ["Ps14MirrorPathType", "Distance"]
+- !private ["Ps14MirrorPathType", "IntegerLiteralType"]
+- !private ["Ps14MirrorPathType", "init"]
+- !private ["Ps21MutableCollectionType", "Generator"]
+- !private ["Ps21MutableCollectionType", "Index"]
+- !private ["Ps21MutableCollectionType", "SubSequence"]
+- !private ["Ps21MutableCollectionType", "count"]
+- !private ["Ps16MutableIndexable", "Generator"]
+- !private ["Ps16MutableIndexable", "Index"]
+- !private ["Ps16MutableIndexable", "SubSequence"]
+- !private ["Ps16MutableIndexable", "count"]
+- !private ["Ps16MutableSliceable", "Generator"]
+- !private ["Ps16MutableSliceable", "Index"]
+- !private ["Ps16MutableSliceable", "SubSequence"]
+- !private ["Ps16MutableSliceable", "count"]
+- !private ["CSo7NSArray", "Generator"]
+- !private ["CSo7NSArray", "init"]
+- !private ["PSo8NSCoding", "Generator"]
+- !private ["PSo8NSCoding", "deleteObject"]
+- !private ["PSo8NSCoding", "description"]
+- !private ["PSo8NSCoding", "entity"]
+- !private ["PSo8NSCoding", "entityForName"]
+- !private ["PSo8NSCoding", "executeFetchRequest"]
+- !private ["PSo8NSCoding", "init"]
+- !private ["PSo8NSCoding", "insertNewObjectForEntityForName"]
+- !private ["PSo8NSCoding", "save"]
+- !private ["PSo9NSCopying", "Generator"]
+- !private ["PSo9NSCopying", "description"]
+- !private ["PSo9NSCopying", "entity"]
+- !private ["PSo9NSCopying", "entityForName"]
+- !private ["PSo9NSCopying", "init"]
+- !private ["PSo9NSCopying", "insertNewObjectForEntityForName"]
+- !private ["CSo19NSEntityDescription", "entityForName"]
+- !private ["CSo19NSEntityDescription", "insertNewObjectForEntityForName"]
+- !private ["CSo11NSException", "description"]
+- !private ["PSo17NSFastEnumeration", "Generator"]
+- !private ["PSo17NSFastEnumeration", "entityForName"]
+- !private ["PSo17NSFastEnumeration", "init"]
+- !private ["PSo17NSFastEnumeration", "insertNewObjectForEntityForName"]
+- !private ["C10Foundation15NSFastGenerator", "Element"]
+- !private ["CSo14NSFetchRequest", "entity"]
+- !private ["CSo14NSFetchRequest", "init"]
+- !private ["PSo9NSLocking", "deleteObject"]
+- !private ["PSo9NSLocking", "executeFetchRequest"]
+- !private ["PSo9NSLocking", "save"]
+- ["CSo15NSManagedObject", "Bool"]
+- !private ["CSo15NSManagedObject", "CRASH_ENTITY_NAME"]
+- !private ["CSo15NSManagedObject", "CoreDataHelper"]
+- !private ["CSo15NSManagedObject", "Crash"]
+- ["CSo15NSManagedObject", "NSArray"]
+- ["CSo15NSManagedObject", "NSEntityDescription"]
+- ["CSo15NSManagedObject", "NSError"]
+- !private ["CSo15NSManagedObject", "NSException"]
+- ["CSo15NSManagedObject", "NSFetchRequest"]
+- !private ["CSo15NSManagedObject", "NSManagedObject"]
+- ["CSo15NSManagedObject", "NSManagedObjectContext"]
+- !private ["CSo15NSManagedObject", "NSSetUncaughtExceptionHandler"]
+- !private ["CSo15NSManagedObject", "String"]
+- !private ["CSo15NSManagedObject", "Void"]
+- !private ["CSo15NSManagedObject", "WebServiceManager"]
+- ["CSo15NSManagedObject", "context"]
+- !private ["CSo15NSManagedObject", "crashDescription"]
+- ["CSo15NSManagedObject", "debuggingEnabled"]
+- !private ["CSo15NSManagedObject", "deinit"]
+- ["CSo15NSManagedObject", "deleteCrash"]
+- ["CSo15NSManagedObject", "entity1"]
+- ["CSo15NSManagedObject", "error"]
+- ["CSo15NSManagedObject", "fetchRequest"]
+- ["CSo15NSManagedObject", "getCrash"]
+- ["CSo15NSManagedObject", "init"]
+- ["CSo15NSManagedObject", "initCrash"]
+- !private ["CSo15NSManagedObject", "print"]
+- ["CSo15NSManagedObject", "saveCrash"]
+- ["CSo15NSManagedObject", ""]
+- !private ["CSo22NSManagedObjectContext", "deleteObject"]
+- !private ["CSo22NSManagedObjectContext", "executeFetchRequest"]
+- !private ["CSo22NSManagedObjectContext", "save"]
+- !private ["PSo16NSMutableCopying", "Generator"]
+- !private ["PSo16NSMutableCopying", "init"]
+- ["CSo8NSObject", "Bool"]
+- !private ["CSo8NSObject", "CRASH_ENTITY_NAME"]
+- !private ["CSo8NSObject", "CoreDataHelper"]
+- !private ["CSo8NSObject", "Crash"]
+- !private ["CSo8NSObject", "Generator"]
+- ["CSo8NSObject", "NSArray"]
+- ["CSo8NSObject", "NSEntityDescription"]
+- ["CSo8NSObject", "NSError"]
+- !private ["CSo8NSObject", "NSException"]
+- ["CSo8NSObject", "NSFetchRequest"]
+- !private ["CSo8NSObject", "NSManagedObject"]
+- ["CSo8NSObject", "NSManagedObjectContext"]
+- !private ["CSo8NSObject", "NSSetUncaughtExceptionHandler"]
+- !private ["CSo8NSObject", "String"]
+- !private ["CSo8NSObject", "Void"]
+- !private ["CSo8NSObject", "WebServiceManager"]
+- ["CSo8NSObject", "context"]
+- !private ["CSo8NSObject", "crashDescription"]
+- ["CSo8NSObject", "debuggingEnabled"]
+- ["CSo8NSObject", "deleteCrash"]
+- !private ["CSo8NSObject", "deleteObject"]
+- !private ["CSo8NSObject", "description"]
+- !private ["CSo8NSObject", "entity"]
+- ["CSo8NSObject", "entity1"]
+- !private ["CSo8NSObject", "entityForName"]
+- ["CSo8NSObject", "error"]
+- !private ["CSo8NSObject", "executeFetchRequest"]
+- ["CSo8NSObject", "fetchRequest"]
+- ["CSo8NSObject", "getCrash"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "initCrash"]
+- !private ["CSo8NSObject", "insertNewObjectForEntityForName"]
+- !private ["CSo8NSObject", "mainMOC"]
+- !private ["CSo8NSObject", "managedObjectContext"]
+- !private ["CSo8NSObject", "print"]
+- !private ["CSo8NSObject", "save"]
+- ["CSo8NSObject", "saveCrash"]
+- !private ["CSo8NSObject", "saveDataContext"]
+- !private ["CSo8NSObject", "sharedInstance"]
+- !private ["CSo8NSObject", "uploadCrashToServer"]
+- !private ["CSo8NSObject", "writerMOC"]
+- !private ["PSo16NSObjectProtocol", "CRASH_ENTITY_NAME"]
+- !private ["PSo16NSObjectProtocol", "CoreDataHelper"]
+- !private ["PSo16NSObjectProtocol", "Crash"]
+- !private ["PSo16NSObjectProtocol", "Generator"]
+- !private ["PSo16NSObjectProtocol", "NSArray"]
+- !private ["PSo16NSObjectProtocol", "NSEntityDescription"]
+- !private ["PSo16NSObjectProtocol", "NSFetchRequest"]
+- !private ["PSo16NSObjectProtocol", "NSSetUncaughtExceptionHandler"]
+- !private ["PSo16NSObjectProtocol", "WebServiceManager"]
+- ["PSo16NSObjectProtocol", "context"]
+- !private ["PSo16NSObjectProtocol", "crashDescription"]
+- ["PSo16NSObjectProtocol", "debuggingEnabled"]
+- ["PSo16NSObjectProtocol", "deleteCrash"]
+- !private ["PSo16NSObjectProtocol", "deleteObject"]
+- !private ["PSo16NSObjectProtocol", "description"]
+- !private ["PSo16NSObjectProtocol", "entity"]
+- ["PSo16NSObjectProtocol", "entity1"]
+- !private ["PSo16NSObjectProtocol", "entityForName"]
+- ["PSo16NSObjectProtocol", "error"]
+- !private ["PSo16NSObjectProtocol", "executeFetchRequest"]
+- ["PSo16NSObjectProtocol", "fetchRequest"]
+- ["PSo16NSObjectProtocol", "getCrash"]
+- ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "initCrash"]
+- !private ["PSo16NSObjectProtocol", "insertNewObjectForEntityForName"]
+- !private ["PSo16NSObjectProtocol", "mainMOC"]
+- !private ["PSo16NSObjectProtocol", "managedObjectContext"]
+- !private ["PSo16NSObjectProtocol", "print"]
+- !private ["PSo16NSObjectProtocol", "save"]
+- ["PSo16NSObjectProtocol", "saveCrash"]
+- !private ["PSo16NSObjectProtocol", "saveDataContext"]
+- !private ["PSo16NSObjectProtocol", "sharedInstance"]
+- !private ["PSo16NSObjectProtocol", "uploadCrashToServer"]
+- !private ["PSo16NSObjectProtocol", "writerMOC"]
+- ["PSo16NSObjectProtocol", ""]
+- !private ["CSo24NSPersistentStoreRequest", "entity"]
+- !private ["CSo24NSPersistentStoreRequest", "init"]
+- !private ["PSo14NSSecureCoding", "Generator"]
+- !private ["PSo14NSSecureCoding", "init"]
+- !private ["CSo8NSString", "deinit"]
+- !private ["CSo8NSString", "init"]
+- !private ["Ps21NilLiteralConvertible", "Generator"]
+- !private ["Sq", "deinit"]
+- !private ["Ps16OutputStreamType", "init"]
+- !private ["Ps21RandomAccessIndexType", "Distance"]
+- !private ["Ps21RandomAccessIndexType", "IntegerLiteralType"]
+- !private ["Ps30RangeReplaceableCollectionType", "Generator"]
+- !private ["Ps30RangeReplaceableCollectionType", "Index"]
+- !private ["Ps30RangeReplaceableCollectionType", "SubSequence"]
+- !private ["Ps30RangeReplaceableCollectionType", "count"]
+- !private ["Ps12SequenceType", "Generator"]
+- !private ["Ps12SequenceType", "Index"]
+- !private ["Ps12SequenceType", "SubSequence"]
+- !private ["Ps12SequenceType", "count"]
+- !private ["Ps12SequenceType", "init"]
+- !private ["Ps17SignedIntegerType", "Distance"]
+- !private ["Ps17SignedIntegerType", "IntegerLiteralType"]
+- !private ["Ps16SignedNumberType", "Distance"]
+- !private ["Ps16SignedNumberType", "IntegerLiteralType"]
+- !private ["Ps10Streamable", "init"]
+- !private ["Ps10Strideable", "Distance"]
+- !private ["Ps10Strideable", "IntegerLiteralType"]
+- !private ["SS", "init"]
+- !private ["Ps30StringInterpolationConvertible", "init"]
+- !private ["Ps24StringLiteralConvertible", "init"]
+- !private ["Su", "deinit"]
+- !private ["Vs6UInt16", "deinit"]
+- !private ["Vs6UInt32", "deinit"]
+- !private ["Vs6UInt64", "deinit"]
+- !private ["Vs5UInt8", "deinit"]
+- !private ["Sc", "deinit"]
+- !private ["Ps31UnicodeScalarLiteralConvertible", "init"]
+- !private ["C7Blooper17WebServiceManager", "uploadCrashToServer"]
+- !private ["Ps10_ArrayType", "Generator"]
+- !private ["Ps10_ArrayType", "Index"]
+- !private ["Ps10_ArrayType", "SubSequence"]
+- !private ["Ps10_ArrayType", "count"]
+- !private ["Ps33_BuiltinBooleanLiteralConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible", "init"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "Distance"]
+- !private ["Ps33_BuiltinIntegerLiteralConvertible", "IntegerLiteralType"]
+- !private ["Ps32_BuiltinStringLiteralConvertible", "init"]
+- !private ["Ps37_BuiltinUTF16StringLiteralConvertible", "init"]
+- !private ["Ps39_BuiltinUnicodeScalarLiteralConvertible", "init"]
+- !private ["Ps24_DestructorSafeContainer", "Generator"]
+- !private ["Ps24_DestructorSafeContainer", "Index"]
+- !private ["Ps24_DestructorSafeContainer", "SubSequence"]
+- !private ["Ps24_DestructorSafeContainer", "count"]
+- !private ["Ps14_Incrementable", "Distance"]
+- !private ["Ps14_Incrementable", "IntegerLiteralType"]
+- !private ["Ps22_IntegerArithmeticType", "Distance"]
+- !private ["Ps22_IntegerArithmeticType", "IntegerLiteralType"]
+- !private ["Ps12_IntegerType", "Distance"]
+- !private ["Ps12_IntegerType", "IntegerLiteralType"]
+- !private ["Ps21_ObjectiveCBridgeable", "Distance"]
+- !private ["Ps21_ObjectiveCBridgeable", "Generator"]
+- !private ["Ps21_ObjectiveCBridgeable", "Index"]
+- !private ["Ps21_ObjectiveCBridgeable", "IntegerLiteralType"]
+- !private ["Ps21_ObjectiveCBridgeable", "SubSequence"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "count"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps22_RandomAccessAmbiguity", "Distance"]
+- !private ["Ps22_RandomAccessAmbiguity", "IntegerLiteralType"]
+- !private ["Ps12_Reflectable", "Distance"]
+- !private ["Ps12_Reflectable", "Generator"]
+- !private ["Ps12_Reflectable", "Index"]
+- !private ["Ps12_Reflectable", "IntegerLiteralType"]
+- !private ["Ps12_Reflectable", "SubSequence"]
+- !private ["Ps12_Reflectable", "_getBuiltinLogicValue"]
+- !private ["Ps12_Reflectable", "count"]
+- !private ["Ps12_Reflectable", "init"]
+- !private ["Ps18_SignedIntegerType", "Distance"]
+- !private ["Ps18_SignedIntegerType", "IntegerLiteralType"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Sa"
+- !private "Ps23ArrayLiteralConvertible"
+- !private "Vs10ArraySlice"
+- !private "Ps22BidirectionalIndexType"
+- !private "Ps21BitwiseOperationsType"
+- !private "Sb"
+- !private "Ps25BooleanLiteralConvertible"
+- !private "Ps11BooleanType"
+- "Ps11CVarArgType"
+- !private "Vs9Character"
+- !private "Ps14CollectionType"
+- !private "Ps10Comparable"
+- !private "CSo14CoreDataHelper"
+- "C7Blooper5Crash"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- !private "Sd"
+- "Ps9Equatable"
+- !private "Ps41ExtendedGraphemeClusterLiteralConvertible"
+- !private "Sf"
+- !private "Ps16ForwardIndexType"
+- !private "Ps13GeneratorType"
+- "Ps8Hashable"
+- !private "SQ"
+- !private "Ps9Indexable"
+- !private "Si"
+- !private "Vs5Int16"
+- !private "Vs5Int32"
+- !private "Vs5Int64"
+- !private "Vs4Int8"
+- !private "Ps21IntegerArithmeticType"
+- !private "Ps25IntegerLiteralConvertible"
+- !private "Ps11IntegerType"
+- !private "Ps14MirrorPathType"
+- !private "Ps21MutableCollectionType"
+- !private "Ps16MutableIndexable"
+- !private "Ps16MutableSliceable"
+- !private "CSo7NSArray"
+- !private "PSo8NSCoding"
+- !private "PSo9NSCopying"
+- !private "CSo19NSEntityDescription"
+- !private "CSo11NSException"
+- !private "PSo17NSFastEnumeration"
+- !private "C10Foundation15NSFastGenerator"
+- !private "CSo14NSFetchRequest"
+- !private "PSo9NSLocking"
+- "CSo15NSManagedObject"
+- !private "CSo22NSManagedObjectContext"
+- !private "PSo16NSMutableCopying"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- !private "CSo24NSPersistentStoreRequest"
+- !private "PSo14NSSecureCoding"
+- !private "CSo8NSString"
+- !private "Ps21NilLiteralConvertible"
+- !private "Sq"
+- !private "Ps16OutputStreamType"
+- !private "Ps21RandomAccessIndexType"
+- !private "Ps30RangeReplaceableCollectionType"
+- !private "Ps12SequenceType"
+- !private "Ps17SignedIntegerType"
+- !private "Ps16SignedNumberType"
+- !private "Ps10Streamable"
+- !private "Ps10Strideable"
+- !private "SS"
+- !private "Ps30StringInterpolationConvertible"
+- !private "Ps24StringLiteralConvertible"
+- !private "Su"
+- !private "Vs6UInt16"
+- !private "Vs6UInt32"
+- !private "Vs6UInt64"
+- !private "Vs5UInt8"
+- !private "Sc"
+- !private "Ps31UnicodeScalarLiteralConvertible"
+- !private "C7Blooper17WebServiceManager"
+- !private "Ps10_ArrayType"
+- !private "Ps33_BuiltinBooleanLiteralConvertible"
+- !private "Ps49_BuiltinExtendedGraphemeClusterLiteralConvertible"
+- !private "Ps33_BuiltinIntegerLiteralConvertible"
+- !private "Ps32_BuiltinStringLiteralConvertible"
+- !private "Ps37_BuiltinUTF16StringLiteralConvertible"
+- !private "Ps39_BuiltinUnicodeScalarLiteralConvertible"
+- !private "Ps24_DestructorSafeContainer"
+- !private "Ps14_Incrementable"
+- !private "Ps22_IntegerArithmeticType"
+- !private "Ps12_IntegerType"
+- !private "Ps21_ObjectiveCBridgeable"
+- !private "Ps22_RandomAccessAmbiguity"
+- !private "Ps12_Reflectable"
+- !private "Ps18_SignedIntegerType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/Blooper/CoreData/CoreDataHelper.h"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/Blooper/Blooper.h"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/build/Blooper.build/Debug-iphonesimulator/Blooper.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreData.swiftmodule"
+interface-hash: "6f57418b9dddc1a60e56e4d0a854168a"

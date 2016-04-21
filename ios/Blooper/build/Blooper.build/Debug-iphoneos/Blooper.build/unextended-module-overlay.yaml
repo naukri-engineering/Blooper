@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/ikjot/Library/Developer/Xcode/DerivedData/Blooper-ayxdvviiypkamweyeensutptkgpj/Build/Products/Debug-iphoneos/Blooper.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/build/Blooper.build/Debug-iphoneos/Blooper.build/unextended-module.modulemap',
+    }]
+  }]
+}

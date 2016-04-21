@@ -1,0 +1,10 @@
+version: "Apple Swift version 2.1.1 (swiftlang-700.1.101.15 clang-700.1.81)"
+options: "c7b0454f1a6f9e3fe29eef534d4967a7"
+build_time: [513672137, 547293000]
+inputs:
+  "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/NewMonk/CoreData/Model/Crash+CoreDataProperties.swift": [507277746, 0]
+  "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/NewMonk/CoreData/Constants/Constants.swift": [513536355, 0]
+  "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/NewMonk/Network/WebServiceManager.swift": [513672109, 0]
+  "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/NewMonk/NewMonk.swift": [513672085, 0]
+  "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/NewMonk/Network/NetworkConstants.swift": [513536370, 0]
+  "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/NewMonk/CoreData/Model/Crash.swift": [513672085, 0]

@@ -1,0 +1,38 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/ikjot/Library/Developer/Xcode/DerivedData/Blooper-ayxdvviiypkamweyeensutptkgpj/Build/Products/Debug-iphonesimulator/Blooper.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Blooper-Swift.h",
+          'external-contents': "/Users/ikjot/Library/Developer/Xcode/DerivedData/Blooper-ayxdvviiypkamweyeensutptkgpj/Build/Products/Debug-iphonesimulator/Blooper.framework/Headers/Blooper-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Blooper.h",
+          'external-contents': "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/Blooper/Blooper.h"
+        },
+        {
+          'type': 'file',
+          'name': "CoreDataHelper.h",
+          'external-contents': "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/Blooper/CoreData/CoreDataHelper.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ikjot/Library/Developer/Xcode/DerivedData/Blooper-ayxdvviiypkamweyeensutptkgpj/Build/Products/Debug-iphonesimulator/Blooper.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/build/Blooper.build/Debug-iphonesimulator/Blooper.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

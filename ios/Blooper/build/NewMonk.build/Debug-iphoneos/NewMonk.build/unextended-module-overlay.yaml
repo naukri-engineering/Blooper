@@ -1,0 +1,13 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': '/Users/ikjot/Library/Developer/Xcode/DerivedData/NewMonk-cpsathtlhupujngqvhmmwxkhqjit/Build/Products/Debug-iphoneos/NewMonk.framework/Modules'
+    'contents': [{
+      'type': 'file',
+      'name': 'module.modulemap',
+      'external-contents': '/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/build/NewMonk.build/Debug-iphoneos/NewMonk.build/unextended-module.modulemap',
+    }]
+  }]
+}

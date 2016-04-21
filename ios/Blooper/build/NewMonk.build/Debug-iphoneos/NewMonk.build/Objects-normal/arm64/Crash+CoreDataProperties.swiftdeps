@@ -1,0 +1,60 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["C7NewMonk5Crash", ""]
+- ["C7NewMonk5Crash", "crashCallStack"]
+- ["C7NewMonk5Crash", "crashDescription"]
+provides-dynamic-lookup:
+- "crashCallStack"
+- "crashDescription"
+depends-top-level:
+- "String"
+- "Crash"
+depends-member:
+- ["PSs9AnyObject", "crashCallStack"]
+- ["PSs9AnyObject", "crashDescription"]
+- ["PSs11CVarArgType", "crashCallStack"]
+- ["PSs11CVarArgType", "crashDescription"]
+- ["C7NewMonk5Crash", "String"]
+- ["C7NewMonk5Crash", "crashCallStack"]
+- ["C7NewMonk5Crash", "crashDescription"]
+- ["PSs23CustomStringConvertible", "crashCallStack"]
+- ["PSs23CustomStringConvertible", "crashDescription"]
+- ["PSs9Equatable", "crashCallStack"]
+- ["PSs9Equatable", "crashDescription"]
+- ["PSs8Hashable", "crashCallStack"]
+- ["PSs8Hashable", "crashDescription"]
+- ["CSo15NSManagedObject", "String"]
+- ["CSo15NSManagedObject", "crashCallStack"]
+- ["CSo15NSManagedObject", "crashDescription"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "crashCallStack"]
+- ["CSo8NSObject", "crashDescription"]
+- ["PSo16NSObjectProtocol", "crashCallStack"]
+- ["PSo16NSObjectProtocol", "crashDescription"]
+depends-nominal:
+- "PSs9AnyObject"
+- "PSs11CVarArgType"
+- "C7NewMonk5Crash"
+- "PSs23CustomStringConvertible"
+- "PSs9Equatable"
+- "PSs8Hashable"
+- "CSo15NSManagedObject"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Swift.swiftmodule"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/NewMonk/CoreData/CoreDataHelper.h"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/NewMonk/NewMonk.h"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/build/NewMonk.build/Debug-iphoneos/NewMonk.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/arm64/CoreData.swiftmodule"
+interface-hash: "4b73f45761d3321c679853a143dbcfaf"

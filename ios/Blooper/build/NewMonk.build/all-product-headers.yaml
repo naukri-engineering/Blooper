@@ -1,0 +1,38 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/ikjot/Library/Developer/Xcode/DerivedData/NewMonk-cpsathtlhupujngqvhmmwxkhqjit/Build/Products/Debug-iphonesimulator/NewMonk.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "CoreDataHelper.h",
+          'external-contents': "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/NewMonk/CoreData/CoreDataHelper.h"
+        },
+        {
+          'type': 'file',
+          'name': "NewMonk-Swift.h",
+          'external-contents': "/Users/ikjot/Library/Developer/Xcode/DerivedData/NewMonk-cpsathtlhupujngqvhmmwxkhqjit/Build/Products/Debug-iphonesimulator/NewMonk.framework/Headers/NewMonk-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "NewMonk.h",
+          'external-contents': "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/NewMonk/NewMonk.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/ikjot/Library/Developer/Xcode/DerivedData/NewMonk-cpsathtlhupujngqvhmmwxkhqjit/Build/Products/Debug-iphonesimulator/NewMonk.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/ikjot/Desktop/xcode projects/iosLibraries/NewMonk/build/NewMonk.build/Debug-iphonesimulator/NewMonk.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

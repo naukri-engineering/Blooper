@@ -1,0 +1,63 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+provides-nominal:
+provides-member:
+- ["C7Blooper5Crash", ""]
+- ["C7Blooper5Crash", "crashCallStack"]
+- ["C7Blooper5Crash", "crashDescription"]
+provides-dynamic-lookup:
+- "crashDescription"
+- "crashCallStack"
+depends-top-level:
+- "String"
+- "Crash"
+depends-member:
+- ["Ps9AnyObject", "crashCallStack"]
+- ["Ps9AnyObject", "crashDescription"]
+- ["Ps11CVarArgType", "crashCallStack"]
+- ["Ps11CVarArgType", "crashDescription"]
+- ["C7Blooper5Crash", "String"]
+- ["C7Blooper5Crash", "crashCallStack"]
+- ["C7Blooper5Crash", "crashDescription"]
+- ["Ps28CustomDebugStringConvertible", "crashCallStack"]
+- ["Ps28CustomDebugStringConvertible", "crashDescription"]
+- ["Ps23CustomStringConvertible", "crashCallStack"]
+- ["Ps23CustomStringConvertible", "crashDescription"]
+- ["Ps9Equatable", "crashCallStack"]
+- ["Ps9Equatable", "crashDescription"]
+- ["Ps8Hashable", "crashCallStack"]
+- ["Ps8Hashable", "crashDescription"]
+- ["CSo15NSManagedObject", "String"]
+- ["CSo15NSManagedObject", "crashCallStack"]
+- ["CSo15NSManagedObject", "crashDescription"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "crashCallStack"]
+- ["CSo8NSObject", "crashDescription"]
+- ["PSo16NSObjectProtocol", "crashCallStack"]
+- ["PSo16NSObjectProtocol", "crashDescription"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Ps11CVarArgType"
+- "C7Blooper5Crash"
+- "Ps28CustomDebugStringConvertible"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- "Ps8Hashable"
+- "CSo15NSManagedObject"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Swift.swiftmodule"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/Blooper/CoreData/CoreDataHelper.h"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/Blooper/Blooper.h"
+- "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/build/Blooper.build/Debug-iphoneos/Blooper.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/armv7/CoreData.swiftmodule"
+interface-hash: "4b73f45761d3321c679853a143dbcfaf"

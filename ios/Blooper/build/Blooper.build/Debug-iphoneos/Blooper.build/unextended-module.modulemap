@@ -1,0 +1,10 @@
+framework module Blooper {
+  umbrella header "Blooper.h"
+
+  export *
+  module * { export * }
+}
+
+module Blooper.__Swift {
+    exclude header "Blooper-Swift.h"
+}

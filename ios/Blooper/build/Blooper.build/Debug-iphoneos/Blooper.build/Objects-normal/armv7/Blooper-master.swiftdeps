@@ -1,0 +1,10 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.1 clang-703.0.29)"
+options: "86f3c5dbd7388f4cdd85d95634e8e562"
+build_time: [514361918, 163670000]
+inputs:
+  "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/Blooper/Network/NetworkConstants.swift": [513673212, 0]
+  "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/Blooper/CoreData/Model/Crash+CoreDataProperties.swift": [513673212, 0]
+  "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/Blooper/CoreData/Model/Crash.swift": [513673212, 0]
+  "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/Blooper/Network/WebServiceManager.swift": [513674561, 0]
+  "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/Blooper/Blooper.swift": [513686675, 0]
+  "/Users/ikjot/Desktop/xcode projects/iosLibraries/Blooper/Blooper/CoreData/Constants/Constants.swift": [513673212, 0]
