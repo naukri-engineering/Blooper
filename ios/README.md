@@ -1,4 +1,4 @@
-*Blooper* is an open source Universal framework, which automatically posts crash reports to [New Monk](https://github.com/naukri-engineering/NewMonk) (or lets say, any server side script you may have)
+*Blooper* is an open source Universal framework which automatically posts crash reports to [New Monk](https://github.com/naukri-engineering/NewMonk) (or lets say, any server side script you may have)
 
 
 ### Features
