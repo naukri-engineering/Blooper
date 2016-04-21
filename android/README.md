@@ -1,4 +1,4 @@
-**Blooper** is a library that enables an Android application to automatically post detailed crash reports to NewMonk.
+**Blooper** is a library that enables an Android application to automatically post detailed crash reports to [New Monk](https://github.com/naukri-engineering/NewMonk)
 
 **Features**
 
